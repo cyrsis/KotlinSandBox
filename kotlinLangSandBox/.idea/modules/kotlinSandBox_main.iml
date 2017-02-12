@@ -6,13 +6,17 @@
         <option name="compilerInfo">
           <KotlinCompilerInfo>
             <option name="compilerSettings">
-              <CompilerSettings />
+              <CompilerSettings>
+                <option name="additionalArguments" value="kotlinSandBox_main 1.6" />
+              </CompilerSettings>
             </option>
             <option name="k2jsCompilerArguments">
               <K2JSCompilerArguments />
             </option>
             <option name="_commonCompilerArguments">
               <DummyImpl>
+                <option name="languageVersion" value="1.1" />
+                <option name="apiVersion" value="1.1" />
                 <option name="pluginClasspaths">
                   <array />
                 </option>
@@ -20,10 +24,22 @@
                 <option name="pluginOptions">
                   <array />
                 </option>
+                <option name="freeArgs">
+                  <list>
+                    <option value="kotlinSandBox_main" />
+                    <option value="1.6" />
+                  </list>
+                </option>
+                <option name="unknownExtraFlags">
+                  <list>
+                    <option value="-Xadd-compiler-builtins" />
+                  </list>
+                </option>
               </DummyImpl>
             </option>
           </KotlinCompilerInfo>
         </option>
+        <option name="useProjectSettings" value="false" />
         <option name="versionInfo">
           <KotlinVersionInfo>
             <option name="apiLevel" value="1.1" />
