@@ -17,7 +17,6 @@ import basics.utils.someUtiils as someAdditionalFunction
  * Created by victor888 on 2/2/2017.
  */
 fun main(args: Array<String>) {
-
   println("Hello World")
   someAdditionalFunction("Additional Function Print String")
   //someUtiils("Something interesting")

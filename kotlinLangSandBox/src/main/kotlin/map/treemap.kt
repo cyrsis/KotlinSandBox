@@ -7,6 +7,7 @@ import java.util.*
  */
 
 fun main(args: Array<String>) {
+  //TreeMap是有序的，HashMap和HashTable是无序的
   val binaryReps = TreeMap<Char, String>()
   for (c in 'A'..'F') {
     val binary = Integer.toBinaryString(c.toInt())

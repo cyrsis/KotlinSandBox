@@ -4,7 +4,7 @@ package basics
  * Created by cyber on 2017-02-10.
  */
 fun main(args: Array<String>) {
-
+     //What it does, basiclly means a function take a function and return a functionchr
     val numbers = listOf(1, 4, 7)
     var maxValue = max(numbers,{x,y ->x<y})
     println(maxValue)

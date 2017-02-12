@@ -22,6 +22,8 @@ fun Multiplyit(x: Int,y:Int) = x*y
 
 fun main(args: Array<String>) {
 
+    var somethng = "String with .Var"//this works really well
+
     println(operation(12, 25,::Multiplyit)) //passing into function work really well
 
     val sumLamda :(Int,Int)-> Int ={x,y -> x+y}
