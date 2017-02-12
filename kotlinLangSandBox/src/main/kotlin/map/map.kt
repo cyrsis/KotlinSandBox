@@ -4,7 +4,7 @@ package map
  * Created by victor888 on 2/12/2017.
  */
 fun main(args: Array<String>) {
-  var emptyMap: Any = emptyMap<>()
+  var emptyMap: Any = emptyMap<Int,Int>()
 }
 //Map接口有三个比较重要的实现类，分别是HashMap、TreeMap和HashTable。
 //

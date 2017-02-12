@@ -10,10 +10,10 @@ map.put(1,10);
 map.put(2,20);
 map.put(3,30);
 //key list
-var keyList = ArrayList<Int>(map.keySet());
-  println(keyList)
+//var keyList = ArrayList<Int>(map.keySet());
+ // println(keyList)
 //value list
-var valueList = ArrayList<Int>(map.values());
+//var valueList = ArrayList<Int>(map.values());
 //key-value list
-var entryList =  ArrayList<Int,Int>(map.entrySet());
+//var entryList =  ArrayList<Int,Int>(map.entrySet());
 }
