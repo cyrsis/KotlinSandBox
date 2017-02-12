@@ -8,6 +8,7 @@ fun main(args: Array<String>) {
   //itDoesSomethingInCrazyWay(listOfString)
   val itDoesSomethingInBetterWay = itDoesSomethingInBetterWay(listOfString)
   itDoesSomethingInBetterWay.forEach(::println)
+  "Something".use
 }
 
 
@@ -15,6 +16,8 @@ fun itDoesSomethingInBetterWay(elements: List<String>):List<Pair<String,Int>> {
 
   return elements.groupBy { it } //Pass in lambda and Group it by x=x
                   .map { Pair(it.key,it.value.count()) } //make into pairs of key and values
+
+
 }
 
 //fun itDoesSomethingInCrazyWay(elements: List<String>): HashMap<String, Int> {
