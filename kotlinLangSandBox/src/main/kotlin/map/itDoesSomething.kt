@@ -8,7 +8,7 @@ fun main(args: Array<String>) {
   //itDoesSomethingInCrazyWay(listOfString)
   val itDoesSomethingInBetterWay = itDoesSomethingInBetterWay(listOfString)
   itDoesSomethingInBetterWay.forEach(::println)
-  "Something".use
+
 }
 
 
