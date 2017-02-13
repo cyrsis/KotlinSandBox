@@ -9,8 +9,8 @@ package basics
 fun main(args: Array<String>) {
 
   for (c:Colors in Colors.values()) {
-    println("${c.name} + ${c.item[0]")
-        //Todo -> Need to figure out how to access the inner value of Enum Class
+    println("${c.name} + ${c.item[0]}")
+    //Todo -> Need to figure out how to access the inner value of Enum Class
   }
 }
 
