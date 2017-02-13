@@ -3,8 +3,8 @@ package map
 /**
  * Created by victor888 on 2/13/2017.
  */
-//Kotlin do not have concept of Dicionary,
-//And HashMap does not have a conceopt of TryGetValue, it just
+//Kotlin do not have concept of Dictionary,
+//And HashMap does not have a concept of TryGetValue, it just
 //a look up table which is more efficient because it is  a single lookup
 
 fun main(args: Array<String>) {
