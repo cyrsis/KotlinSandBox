@@ -3,7 +3,7 @@ package basics
 /**
  * Created by victor888 on 2/13/2017.
  */
-//List<T> seems missing  in Kotlin
+//List<T> from C# seems missing  in Kotlin
 //it actually is arrayListOf in Kotlin
 fun main(args: Array<String>) {
 

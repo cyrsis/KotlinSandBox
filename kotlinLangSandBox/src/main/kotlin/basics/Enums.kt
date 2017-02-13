@@ -32,3 +32,6 @@ enum class Colors(val item:IntArray){
    BLUE(intArrayOf(0,0,255))
 }
 //Array is mutable, Enum can be break into pieces
+
+
+
