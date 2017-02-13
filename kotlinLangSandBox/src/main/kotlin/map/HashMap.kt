@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
    myHashMap.forEach { t, u -> print("item[$t]=$u \n") }
 
   //Kotlin do not have new keyword, to make a object would be something like this
-  //Something like hashMapOf just like observable 
+  //Something like hashMapOf just like observable "of" something
   var map:HashMap<String,Int>  = hashMapOf<String,Int>("one" to 1,"two" to 2)
   println(map["one"])
 }
