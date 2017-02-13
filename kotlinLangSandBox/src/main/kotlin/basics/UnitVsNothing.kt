@@ -4,10 +4,10 @@ package basics
  * Created by cyber on 2017-02-08.
  */
 
-
+//On Return type
 fun main(args: Array<String>) {
-    funWithUnit()
-    funWithNothing()
+    funWithUnit() //Unit is Void
+    funWithNothing() //Nothing means nothing
 }
 
 fun funWithNothing() :Nothing {
