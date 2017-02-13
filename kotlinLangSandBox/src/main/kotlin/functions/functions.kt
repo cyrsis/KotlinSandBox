@@ -75,6 +75,7 @@ fun playWithSpreadOperator() {
   println("The spread operator would work? $b")
 
   //Todo Figure out what is Spread Operator
+  //It just a damn * for passing varargs
 // println(someOtherList)
 }
 
@@ -116,6 +117,7 @@ fun functionReturnAFour(): Int {
 }
 
 //Read as input : output
+//The best use case of "Nothing"
 fun throwingException(): Nothing {
   throw Exception("This function throw Exception")
 }
