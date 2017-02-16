@@ -11,6 +11,23 @@ fun main(args: Array<String>) {
   //createAnyNullTypeFunction()
   //println("15.0 is less than  or equal to 15 " + 15.0.lessThanOrEqualTo(10.0)
   extendionMethodForDefault()
+
+  "Victor".StockTrading()
+   "Victor" glorify  2
+   "Victor".insult() //
+
+}
+
+private fun String.insult(count: Int =99) {
+  println("${this}, you are ${count} times dumber than a dog")
+}
+
+infix fun String.glorify(times: Int) :Unit {
+  println("You are amazing "+ this + " ")
+}
+
+private fun String.StockTrading() {
+  println("You make $$ again")
 }
 
 fun extendionMethodForDefault() {
