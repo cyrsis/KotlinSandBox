@@ -1,4 +1,4 @@
-package basics
+package collection
 
 /**
  * Created by victor888 on 2/13/2017.
