@@ -7,6 +7,6 @@ fun main(args: Array<String>) {
     var sum =0
     val numbers = listOf(7, 1, 3, 4)
 
-     numbers.forEach { sum+=it }
+     numbers.forEach { sum+=it }// Haves access of the sum call closure?
     println(sum)
 }

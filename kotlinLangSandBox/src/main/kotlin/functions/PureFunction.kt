@@ -6,7 +6,7 @@ package functions
 //What is pure function?
 //-- Give same input , function always provide same output
 //-- Execute does not cause observable side-effects
-//** Basiclly means no class counter, it always provide same output
+//** Basiclly means no class field counter, it always provide same output
 //** Because we do not want to count the state
 //-- Referential Transparency
 //** Basiclly just look up table just for mapping values to values

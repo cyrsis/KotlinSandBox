@@ -6,7 +6,15 @@ package basics
 //More Powerful Switch Statement from C#
 fun main(args: Array<String>) {
 
+  var x = 245
+  var greater ={y:Int -> y>100}
 
+  when{
+    x in 1..100 -> println("In ranage")
+    greater(x) -> println("Great")
+    x == 5 -> println("Exact Match")
+    else -> println("Outside range")
+  }
 
 
 }
