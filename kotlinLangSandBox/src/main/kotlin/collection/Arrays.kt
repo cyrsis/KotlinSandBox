@@ -15,7 +15,7 @@ fun main(args: Array<String>) {
   println("Perfect Square")
   perfectSquares.forEach { print("$it \t") }
 
-  
+
 
   var hongkongpeople = arrayListOf("Hong Kong" to "Cantonese" , "Chinese" to "Mandarin")
 
