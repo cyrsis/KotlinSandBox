@@ -1,4 +1,4 @@
-package basics
+package `class`
 
 /**
  * Created by victor888 on 2/13/2017.
@@ -6,16 +6,17 @@ package basics
 
 //The much more powerful enums, I think it only goes well with
 //" when" the switch statement
+//Enum is class, can take constructor
 fun main(args: Array<String>) {
 var index =0
 
 
-  for (e:Colors in Colors.values())
+  for (e: Colors in Colors.values())
   {
     println("${e.name}(${e.item.joinToString(",")})")
   }
 
-  for (c:Colors in Colors.values()) {
+  for (c: Colors in Colors.values()) {
 
     println("${c.name} + ${c.item[index]}")
     //RED (255,0,0)

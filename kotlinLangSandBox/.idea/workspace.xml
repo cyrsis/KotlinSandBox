@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8106016b-e159-4ad3-a724-e6b14f1d7c37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/Return.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/TypesInKotlin.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/class/AccessLevels.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/class/NestedClass.kt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt$largestNumber$1.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/basics/EnumWithCompanionObject.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/class/EnumWithCompanionObject.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/kotlin/basics/Enums.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/class/Enums.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/META-INF/kotlinSandBox_main.kotlin_module" afterPath="$PROJECT_DIR$/build/classes/main/META-INF/kotlinSandBox_main.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/basics/BooleanKt.class" afterPath="$PROJECT_DIR$/build/classes/main/basics/BooleanKt.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/basics/WhenKt.class" afterPath="$PROJECT_DIR$/build/classes/main/basics/WhenKt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt.class" afterPath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/class/Greeter.class" afterPath="$PROJECT_DIR$/build/classes/main/class/Greeter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/class/OOPHelloKt.class" afterPath="$PROJECT_DIR$/build/classes/main/class/OOPHelloKt.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/basics/Return.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/Return.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/class/OOPHello.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/class/OOPHello.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -98,11 +106,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Return.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Return.kt">
+      <file leaf-file-name="Enums.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/Enums.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="464">
+              <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -510,14 +518,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/map/map.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/map/itDoesSomething.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/basics/nullConditionalOperator.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/functions/functions.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/ArrayListOf.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/TemporyFunction.kt" />
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/basics/Enums.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/SealClassREnum.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/UnitVsNothing.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functions/Using.kt" />
@@ -536,7 +539,6 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/class/DataClass.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Max.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/class/SingletonInFactory.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/class/OOPHello.kt" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/EnumWithCompanionObject.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Package.kt" />
@@ -561,6 +563,12 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/BitwiseOperation.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Boolean.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Return.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/basics/TypesInKotlin.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class/OOPHello.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class/AccessLevels.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class/NestedClass.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/basics/Enums.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/class/Enums.kt" />
       </list>
     </option>
   </component>
@@ -1061,6 +1069,58 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="functions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlinSandBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlinLangSandBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlinSandBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlinLangSandBox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kotlin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="basics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1127,7 +1187,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../corda" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="when&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/When.kt&#10;ex&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/ExplicitCasting.kt&#10;smart&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/SmartCasting.kt&#10;main&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Main.kt&#10;dataclass&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/DataClass.kt&#10;dele&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/DelegateProperties.kt&#10;infix&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/InfixFunction.kt&#10;closure&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Closure.kt&#10;hasma&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;proper&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/ClassProperty.kt&#10;Direc&#9;null&#9;null&#10;Dir&#9;null&#9;null&#10;enum&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Enums.kt&#10;hasm&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;Gra&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/build.gradle&#10;treema&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;map&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/SortedMap.kt&#10;high&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/HighOrderFunction.kt&#10;hight&#9;PSI&#9;JAVA://javax.swing.plaf.metal.MetalHighContrastTheme&#10;func&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functional/GettingFunctional.kt&#10;funct&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;extens&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;tre&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;lam&#9;FILE&#9;file://D:/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/LamdaFunctions.kt&#10;inner&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/NestedInnerFunction.kt&#10;Variab&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/basics/Variables.kt&#10;Nothing&#9;null&#9;null&#10;#plugins Jr&#9;null&#9;null&#10;#plugin&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="retur&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Return.kt&#10;when&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/When.kt&#10;ex&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/ExplicitCasting.kt&#10;smart&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/SmartCasting.kt&#10;main&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Main.kt&#10;dataclass&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/DataClass.kt&#10;dele&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/DelegateProperties.kt&#10;infix&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/InfixFunction.kt&#10;closure&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Closure.kt&#10;hasma&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;proper&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/ClassProperty.kt&#10;Direc&#9;null&#9;null&#10;Dir&#9;null&#9;null&#10;enum&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Enums.kt&#10;hasm&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;Gra&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/build.gradle&#10;treema&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;map&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/SortedMap.kt&#10;high&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/HighOrderFunction.kt&#10;hight&#9;PSI&#9;JAVA://javax.swing.plaf.metal.MetalHighContrastTheme&#10;func&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functional/GettingFunctional.kt&#10;funct&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;extens&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;tre&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;lam&#9;FILE&#9;file://D:/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/LamdaFunctions.kt&#10;inner&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/NestedInnerFunction.kt&#10;Variab&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/basics/Variables.kt&#10;Nothing&#9;null&#9;null&#10;#plugins Jr&#9;null&#9;null&#10;#plugin&#9;null&#9;null" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -1136,39 +1196,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class" />
       <recent name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\collection" />
       <recent name="D:\LearnAndroid\kotlinLangSandBox\src\main\kotlin\class" />
       <recent name="D:\LearnAndroid\kotlinLangSandBox\src\main\kotlin\basics" />
       <recent name="C:\Dev\LearnAndroid\kotlinLangSandBox\src\main\kotlin\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.basics.ReturnKt">
-    <configuration default="false" name="basics.ExpressionVsStatmentKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="basics.ExpressionVsStatmentKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="kotlinSandBox_main" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="basics.SmartCastingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="basics.SmartCastingKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="kotlinSandBox_main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.class.NestedClassKt">
     <configuration default="false" name="basics.ExplicitCastingKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="basics.ExplicitCastingKt" />
@@ -1198,6 +1233,32 @@
     <configuration default="false" name="basics.ReturnKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="basics.ReturnKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlinSandBox_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="class.OOPHelloKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="class.OOPHelloKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlinSandBox_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="class.NestedClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="class.NestedClassKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1605,19 +1666,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.ExpressionVsStatmentKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.SmartCastingKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ExplicitCastingKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.WhenKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.ReturnKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.ExplicitCastingKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.WhenKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ReturnKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.class.OOPHelloKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.class.NestedClassKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.ReturnKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.WhenKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ExplicitCastingKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.SmartCastingKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.ExpressionVsStatmentKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.class.NestedClassKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.class.OOPHelloKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ReturnKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.WhenKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.ExplicitCastingKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1682,12 +1743,12 @@
       <workItem from="1487649249426" duration="3274000" />
       <workItem from="1487732440288" duration="15021000" />
       <workItem from="1487817778002" duration="2997000" />
-      <workItem from="1487828540266" duration="3462000" />
+      <workItem from="1487828540266" duration="14124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142831000" />
+    <option name="totallyTimeSpent" value="153493000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1756,7 +1817,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1765,41 +1826,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradlew">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3654">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/inheritance/CustomerRepository.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/Cascades.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.0-beta-38/4360fe534c18acb7508780e29f90ce046870c605/kotlin-stdlib-1.1.0-beta-38-sources.jar!/generated/_Ranges.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="294" column="22" lean-forward="false" selection-start-line="294" selection-start-column="22" selection-end-line="294" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/InfixFunction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Conditionals.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="853">
@@ -1849,31 +1875,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/DataClass.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Closure.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="9" column="72" lean-forward="false" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/DoubleForLoop.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Enums.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1932,13 +1937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/OOPHello.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="870">
@@ -1965,13 +1963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/EnumWithCompanionObject.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-620">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2077,6 +2068,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="23" column="63" lean-forward="false" selection-start-line="23" selection-start-column="63" selection-end-line="23" selection-end-column="63" />
+          <folding>
+            <marker date="1487757052596" expanded="true" signature="23:61" ph="..." />
+            <marker date="1487757052596" expanded="true" signature="64:109" ph="/** Created by victor888 on 2/22/2017. ...*/" />
+            <marker date="1487757052596" expanded="true" signature="140:590" ph="{...}" />
+            <marker date="1487757052596" expanded="true" signature="474:548" ph="{...}" />
+            <marker date="1487757052596" expanded="true" signature="572:587" ph="{...}" />
+            <marker date="1487757052596" expanded="true" signature="620:859" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2084,6 +2083,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="830">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <marker date="1487757578504" expanded="true" signature="16:61" ph="/** Created by victor888 on 2/13/2017. ...*/" />
+            <marker date="1487757578504" expanded="true" signature="92:351" ph="{...}" />
+            <marker date="1487757578504" expanded="true" signature="224:317" ph="{...}" />
+            <marker date="1487757578504" expanded="true" signature="574:628" ph="{...}" />
+            <marker date="1487757578504" expanded="true" signature="597:626" ph="{...}" />
+            <marker date="1487757578504" expanded="true" signature="667:711" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2112,24 +2119,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/When.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
-          <folding>
-            <marker date="1487831331129" expanded="true" signature="16:61" ph="/** Created by victor888 on 2/14/2017. ...*/" />
-            <marker date="1487831331129" expanded="true" signature="211:614" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="654:763" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="802:1017" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="1050:1106" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="1146:1226" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="1261:1354" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="1389:1529" ph="{...}" />
-            <marker date="1487831331129" expanded="true" signature="1574:1665" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/BitwiseOperation.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -2152,10 +2141,181 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Variables.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486397687197" expanded="true" signature="16:58" ph="/** Created by cyber on 2017-02-02. ...*/" />
+            <marker date="1486397687197" expanded="true" signature="89:1644" ph="{...}" />
+            <marker date="1486397687197" expanded="true" signature="1360:1435" ph="&quot;&quot;&quot; This is a string ...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/When.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="37" selection-end-line="53" selection-end-column="37" />
+          <folding>
+            <marker date="1487831331129" expanded="true" signature="16:61" ph="/** Created by victor888 on 2/14/2017. ...*/" />
+            <marker date="1487831331129" expanded="true" signature="211:614" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="654:763" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="802:1017" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="1050:1106" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="1146:1226" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="1261:1354" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="1389:1529" ph="{...}" />
+            <marker date="1487831331129" expanded="true" signature="1574:1665" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/functions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1486990393187" expanded="true" signature="51:297" ph="/** Created by victor888 on 2/6/2017. ...*/" />
+            <marker date="1486990393187" expanded="true" signature="328:594" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="632:785" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="829:1183" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="1230:1334" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="1371:1538" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="1577:1651" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="1787:2099" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2149:2211" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2264:2346" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2319:2344" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2424:2480" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2550:2574" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2653:2671" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2701:2720" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2734:2758" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2791:2805" ph="{...}" />
+            <marker date="1486990393187" expanded="true" signature="2898:2952" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Return.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="58">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="42" selection-end-column="1" />
+          <folding>
+            <marker date="1487835732206" expanded="true" signature="16:61" ph="/** Created by victor888 on 2/23/2017. ...*/" />
+            <marker date="1487835732206" expanded="true" signature="125:280" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="312:466" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="376:464" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="490:637" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="552:635" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="662:865" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="756:824" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="928:1106" ph="{...}" />
+            <marker date="1487835732206" expanded="true" signature="1011:1058" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/TypesInKotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1487839542082" expanded="true" signature="16:61" ph="/** Created by victor888 on 2/23/2017. ...*/" />
+            <marker date="1487839542082" expanded="true" signature="476:480" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/OOPHello.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <marker date="1487841417400" expanded="true" signature="17:62" ph="/** Created by victor888 on 2/21/2017. ...*/" />
+            <marker date="1487841417400" expanded="true" signature="763:1005" ph="{...}" />
+            <marker date="1487841417400" expanded="true" signature="772:1002" ph="{...}" />
+            <marker date="1487841417400" expanded="true" signature="933:998" ph="{...}" />
+            <marker date="1487841417400" expanded="true" signature="1086:1436" ph="{...}" />
+            <marker date="1487841417400" expanded="true" signature="1469:1523" ph="{...}" />
+            <marker date="1487841417400" expanded="true" signature="1485:1521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/AccessLevels.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <marker date="1487841596055" expanded="true" signature="17:62" ph="/** Created by victor888 on 2/23/2017. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/NestedClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="57" column="50" lean-forward="true" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+          <folding>
+            <marker date="1487843979923" expanded="true" signature="17:62" ph="/** Created by victor888 on 2/23/2017. ...*/" />
+            <marker date="1487843979923" expanded="true" signature="111:144" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="137:142" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="170:232" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="275:578" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="335:503" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="432:499" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="525:576" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="631:941" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="666:692" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="765:874" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="786:869" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="892:938" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="973:1032" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="1092:1397" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="1143:1395" ph="{...}" />
+            <marker date="1487843979923" expanded="true" signature="1203:1391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/DataClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1914">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <marker date="1487332587070" expanded="true" signature="77:80" ph="{...}" />
+            <marker date="1487332587070" expanded="true" signature="203:247" ph="/** Created by victor888 on 2/8/2017. ...*/" />
+            <marker date="1487332587070" expanded="true" signature="364:934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/DoubleForLoop.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1487312956639" expanded="true" signature="16:61" ph="/** Created by victor888 on 2/17/2017. ...*/" />
+            <marker date="1487312956639" expanded="true" signature="92:200" ph="{...}" />
+            <marker date="1487312956639" expanded="true" signature="171:197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/EnumWithCompanionObject.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/Enums.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
           <folding />
         </state>
       </provider>

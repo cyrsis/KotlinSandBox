@@ -1,4 +1,4 @@
-package basics
+package `class`
 //
 ///**
 // * Created by victor888 on 2/19/2017.
