@@ -22,14 +22,25 @@ fun main(args: Array<String>) {
   whenInRange(20)
   whenInCollection(20)
   whenInSmartCasting("20")
+  whenWithFunction(20)
   whenWithoutArgs(10,20)
+  println("Is -10 abs "+ whenWithFunction(-10))
+}
+
+fun whenWithFunction(x: Int) :Boolean {
+
+  return when (x){
+    Math.abs(x) -> true //if Math.abs return true goes to true
+    else -> false
+  }
+
 }
 
 fun  whenWithoutArgs(x: Int, y: Int) { //Can replace the if else block
   when{
-    x < y -> println("x is less than y")
-    x > y -> println("x is bigger than y")
-    x == y -> println("x is equal y")
+    x < y -> println("x is less than y") //true goes to
+    x > y -> println("x is bigger than y") //true goes to
+    x == y -> println("x is equal y")  //true goes to
   }
 }
 
@@ -40,8 +51,8 @@ fun whenInSmartCasting(s: Any) {
   }
 }
 
-fun whenInCollection(i: Int) {
-  when (i){
+fun whenInCollection(i: Int) :Boolean {
+  return when (i){
     in listOf(1,2,3,4,5,6) -> true
     else -> false
   }
@@ -58,7 +69,7 @@ fun whenInRange(i: Int): Boolean {
 
 fun isZeroOrOne(i: Int): Boolean { //no more if else in here, so much clean
   return when (i){
-    0,1 ->true
+    0,1 ->true //Simply use , for separate conditional
     else -> false
   }
 }
