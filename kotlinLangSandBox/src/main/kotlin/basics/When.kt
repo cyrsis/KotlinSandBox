@@ -3,7 +3,9 @@ package basics
 /**
  * Created by victor888 on 2/14/2017.
  */
-//More Powerful Switch Statement from C#
+//More Powerful Switch Statement from C# in expression form
+//it can return
+//can be replace most of the if else block
 fun main(args: Array<String>) {
 
   var x = 245
@@ -16,8 +18,51 @@ fun main(args: Array<String>) {
     else -> println("Outside range")
   }
 
+  println(isZeroOrOne(1))
+  whenInRange(20)
+  whenInCollection(20)
+  whenInSmartCasting("20")
+  whenWithoutArgs(10,20)
+}
+
+fun  whenWithoutArgs(x: Int, y: Int) { //Can replace the if else block
+  when{
+    x < y -> println("x is less than y")
+    x > y -> println("x is bigger than y")
+    x == y -> println("x is equal y")
+  }
+}
+
+fun whenInSmartCasting(s: Any) {
+  when(s)
+  {
+    is String -> s.startsWith("S")
+  }
+}
+
+fun whenInCollection(i: Int) {
+  when (i){
+    in listOf(1,2,3,4,5,6) -> true
+    else -> false
+  }
 
 }
+
+fun whenInRange(i: Int): Boolean {
+  return when (i){
+    in -9..9 -> true //Check for single Digital
+    else -> false
+  }
+
+}
+
+fun isZeroOrOne(i: Int): Boolean { //no more if else in here, so much clean
+  return when (i){
+    0,1 ->true
+    else -> false
+  }
+}
+
 
 
 enum class DayOfWeek(val dayNumber: Int) {

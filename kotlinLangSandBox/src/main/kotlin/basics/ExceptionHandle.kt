@@ -1,5 +1,6 @@
 package basics
 
+import java.io.File
 import java.nio.file.Files
 import java.nio.file.Path
 
@@ -9,12 +10,12 @@ import java.nio.file.Path
 
 //ExceptionHandle is same as Java, but exceptions are unchecked which means no more shit in method signatures
 
-class File(path:String)
+class Filelocal(path:String)
 {
   fun close():Unit {}
 }
 
-fun openFile():File =File("")
+fun openFile(): File =File("")
 fun readFromFile(file: File):Unit{}
 
 fun readFile(path: Path):Unit
