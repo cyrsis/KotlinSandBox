@@ -4,7 +4,7 @@ package `class`
  * Created by victor888 on 2/20/2017.
  */
 
-//The whole point of static class is makie it "object" for the Class factory
+//The whole point of  class is makie it "object" for the Class factory
 fun main(args: Array<String>) {
 //  var pf = PointFactor()
 //  pf.NewCarterianPoint(12.0,22.0) //Kind of pain in the ass to get the factory all the time
