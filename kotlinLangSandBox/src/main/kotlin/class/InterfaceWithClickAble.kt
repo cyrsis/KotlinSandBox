@@ -9,8 +9,12 @@ fun main(args: Array<String>) {
   Button().Click()
 }
 
-class Button :Clickable {
+class Button :Clickable,Touchable {
   override fun Click() = println("I am click")
+}
+
+interface Touchable {
+
 }
 
 interface Clickable {
