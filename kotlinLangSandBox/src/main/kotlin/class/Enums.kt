@@ -15,16 +15,33 @@ fun main(args: Array<String>) {
 
   var b = Color.Blue
   println("B has the name ${b.name} and has value of ${b.rgb} and b had the position ${b.ordinal}")
+  println("B has the ${b.example()}") //How simple this is to invoke the function
+  for (x in Color.values()){
+    println(x)
+  }
 
+  println("Vale of Blue is ${Color.valueOf("Red").rgb}")
 }
 
 enum class Color(val rgb:Int) //Enum can do wtih abstract function
 {
-  Red(0xff0000),
-  Green(0x00ff00),
-  Blue(0x0000ff)
+  Red(0xff0000) {
+    override fun example(): String {
+      return "blood"
+    }
+  },
+  Green(0x00ff00) {
+    override fun example(): String {
+      return "Green lead"
+    }
+  },
+  Blue(0x0000ff) {
+    override fun example(): String {
+      return "Ocean Blue"
+    }
+  };
 
-  abstract
+  abstract fun example():String
 
 }
 
