@@ -13,6 +13,19 @@ fun main(args: Array<String>) {
   println(Planet.valueOf("VENUS"))
   println(Planet.values())
 
+  var b = Color.Blue
+  println("B has the name ${b.name} and has value of ${b.rgb} and b had the position ${b.ordinal}")
+
+}
+
+enum class Color(val rgb:Int) //Enum can do wtih abstract function
+{
+  Red(0xff0000),
+  Green(0x00ff00),
+  Blue(0x0000ff)
+
+  abstract
+
 }
 
 fun printEnumInnerValue(index: Int) {
