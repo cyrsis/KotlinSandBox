@@ -31,7 +31,10 @@ fun readFile(path: Path):Unit
     println("Error reading from file. Error was ${e.message}")
   } finally {
     input.close()
+    println("Whatever, this is will execute no matter what")
   }
+
+
 }
 
 fun main(args: Array<String>) {
@@ -40,4 +43,11 @@ fun main(args: Array<String>) {
 
   val sameRef = a === b //This is referential equality to test 2 reference to same files
   //or !== not the same file object
+
+  //This is even better, do a one line
+  val text= "A23"
+  val number:Int? = try { text.toInt()} catch (e:NumberFormatException) {
+    println("Something wrong")
+    null}
+  println(number)
 }
