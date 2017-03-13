@@ -22,7 +22,7 @@ fun main(args: Array<String>) {
   //someUtiils("Something interesting")
 
   @Language("JSON")
-  var string = "{\"name\":\"dahi\"}"
+  var string = "{\"name\":\"dahi\"}" //Inject the Json in here for good
 
   var somethingelse ="something"
 
