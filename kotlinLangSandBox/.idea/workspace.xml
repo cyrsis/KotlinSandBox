@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8106016b-e159-4ad3-a724-e6b14f1d7c37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_js_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/Infix.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/While.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/MemberFunction.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/META-INF/kotlinSandBox_main.kotlin_module" afterPath="$PROJECT_DIR$/build/classes/main/META-INF/kotlinSandBox_main.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_main.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Require.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/basics/Main.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/Main.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/functions/NestedInnerFunction.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/functions/NestedInnerFunction.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -106,11 +95,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NestedInnerFunction.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/NestedInnerFunction.kt">
+      <file leaf-file-name="Require.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/Require.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+            <state relative-caret-position="630">
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -529,7 +518,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/basics/EnumWithCompanionObject.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Package.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Student.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basic/Student.java" />
@@ -580,6 +568,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Infix.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functions/MemberFunction.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/functions/NestedInnerFunction.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/functions/Require.kt" />
       </list>
     </option>
   </component>
@@ -1141,20 +1130,7 @@
       <recent name="C:\Dev\LearnAndroid\kotlinLangSandBox\src\main\kotlin\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.functions.NestedInnerFunctionKt">
-    <configuration default="false" name="basics.WhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="basics.WhileKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="kotlinSandBox_main" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.functions.RequireKt">
     <configuration default="false" name="basics.ConcatStringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="basics.ConcatStringKt" />
@@ -1197,6 +1173,19 @@
     <configuration default="false" name="functions.NestedInnerFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="functions.NestedInnerFunctionKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="kotlinSandBox_main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="functions.RequireKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="functions.RequireKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -1613,19 +1602,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.WhileKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.ConcatStringKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.InfixKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.functions.MemberFunctionKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.functions.NestedInnerFunctionKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.ConcatStringKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.InfixKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.MemberFunctionKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.functions.NestedInnerFunctionKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.functions.RequireKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.functions.NestedInnerFunctionKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.functions.MemberFunctionKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.InfixKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.ConcatStringKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.WhileKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.functions.RequireKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.functions.NestedInnerFunctionKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.MemberFunctionKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.InfixKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.ConcatStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1720,12 +1709,12 @@
       <workItem from="1488960341119" duration="22000" />
       <workItem from="1488960431443" duration="2536000" />
       <workItem from="1489039950253" duration="3201000" />
-      <workItem from="1489387721302" duration="7185000" />
+      <workItem from="1489387721302" duration="9086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202325000" />
+    <option name="totallyTimeSpent" value="204226000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1760,7 +1749,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3231893" sideWeight="0.49870968" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3231893" sideWeight="0.49870968" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866707" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988435" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -1804,13 +1793,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/ClassDelegation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/Enums.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
@@ -2332,8 +2314,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/NestedInnerFunction.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="542">
-          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        <state relative-caret-position="882">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <marker date="1489395617188" expanded="true" signature="19:180" ph="/** Created by victor888 on 2/9/2017. ...*/" />
+            <marker date="1489395617188" expanded="true" signature="330:493" ph="{...}" />
+            <marker date="1489395617188" expanded="true" signature="530:831" ph="{...}" />
+            <marker date="1489395617188" expanded="true" signature="558:829" ph="{...}" />
+            <marker date="1489395617188" expanded="true" signature="871:983" ph="{...}" />
+            <marker date="1489395617188" expanded="true" signature="1069:1308" ph="{...}" />
+            <marker date="1489395617188" expanded="true" signature="1110:1194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/functions/Require.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
