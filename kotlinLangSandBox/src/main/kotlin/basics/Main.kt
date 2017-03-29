@@ -17,7 +17,11 @@ import basics.utils.someUtiils as someAdditionalFunction
  * Created by victor888 on 2/2/2017.
  */
 fun main(args: Array<String>) {
-  println("Hello World")
+
+  println("hello world")
+
+  "victor".Hello()
+  "Jim".Hello()
   someAdditionalFunction("Additional Function Print String")
   //someUtiils("Something interesting")
 
@@ -31,5 +35,10 @@ fun main(args: Array<String>) {
 //Ctrl+ Shit move Line again,nice
 
   println(5.sumInShortForm(10))
+
+}
+
+fun String.Hello() {
+  println(this +"Hello")
 
 }
