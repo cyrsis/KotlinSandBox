@@ -14,3 +14,4 @@ fun main(args: Array<String>) {
   var randomList = IntArray(10){ Random().nextInt(20)}.asList()
   randomList.forEach { print(" $it \t") }
 }
+

@@ -9,12 +9,15 @@ fun main(args: Array<String>) {
     account.add(100.00)
     println(account.balance)
 
+
     val accountInInFixWay = AccountInfix()
         accountInInFixWay add 100.00
 
     println(accountInInFixWay.balance)
 
+
     println(0..10)
+
     100 downTo  0 step 2
 
 
