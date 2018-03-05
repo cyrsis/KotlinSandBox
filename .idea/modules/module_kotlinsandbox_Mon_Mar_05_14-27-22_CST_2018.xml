@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_kotlinsandbox" default="compile.module.kotlinsandbox">
+  <dirname property="module.kotlinsandbox.basedir" file="${ant.file.module_kotlinsandbox}"/>
+  
+  <property name="module.jdk.home.kotlinsandbox" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.kotlinsandbox" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.kotlinsandbox" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.kotlinsandbox" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="kotlinsandbox.output.dir" value="${module.kotlinsandbox.basedir}/../../out/production/KotlinSandBox"/>
+  <property name="kotlinsandbox.testoutput.dir" value="${module.kotlinsandbox.basedir}/../../out/test/KotlinSandBox"/>
+  
+  <path id="kotlinsandbox.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="kotlinsandbox.module.production.classpath">
+    <path refid="${module.jdk.classpath.kotlinsandbox}"/>
+  </path>
+  
+  <path id="kotlinsandbox.runtime.production.module.classpath">
+    <pathelement location="${kotlinsandbox.output.dir}"/>
+  </path>
+  
+  <path id="kotlinsandbox.module.classpath">
+    <path refid="${module.jdk.classpath.kotlinsandbox}"/>
+    <pathelement location="${kotlinsandbox.output.dir}"/>
+  </path>
+  
+  <path id="kotlinsandbox.runtime.module.classpath">
+    <pathelement location="${kotlinsandbox.testoutput.dir}"/>
+    <pathelement location="${kotlinsandbox.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.kotlinsandbox">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.kotlinsandbox">
+    <patternset refid="excluded.from.module.kotlinsandbox"/>
+  </patternset>
+  
+  
+  <target name="compile.module.kotlinsandbox" depends="compile.module.kotlinsandbox.production,compile.module.kotlinsandbox.tests" description="Compile module KotlinSandBox"/>
+  
+  <target name="compile.module.kotlinsandbox.production" depends="register.custom.compilers" description="Compile module KotlinSandBox; production classes"/>
+  
+  <target name="compile.module.kotlinsandbox.tests" depends="register.custom.compilers,compile.module.kotlinsandbox.production" description="compile module KotlinSandBox; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.kotlinsandbox" description="cleanup module">
+    <delete dir="${kotlinsandbox.output.dir}"/>
+    <delete dir="${kotlinsandbox.testoutput.dir}"/>
+  </target>
+</project>
