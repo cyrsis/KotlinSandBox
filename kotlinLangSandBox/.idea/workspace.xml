@@ -4,207 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/kotlin/class/SingletonInFactory.kt" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8106016b-e159-4ad3-a724-e6b14f1d7c37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_js_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_js_1_1_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kotlinSandBox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kotlinSandBox.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/kotlinSandBox_test.iml" afterDir="false" />
+    <list default="true" id="8106016b-e159-4ad3-a724-e6b14f1d7c37" name="Default" comment="Working on some final changes">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/ProgramKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/ProgramKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/SortedMapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/SortedMapKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/VariableKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/VariableKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/BitwiseOperationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/BitwiseOperationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/BooleanKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/BooleanKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Building$Reception.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Building$Reception.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Building.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Building.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ClosureKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ClosureKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ConditionalsKt$for_loop$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ConditionalsKt$for_loop$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ConditionalsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ConditionalsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ContentType$Audio.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ContentType$Audio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ContentType$Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ContentType$Image.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ContentType$Text.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ContentType$Text.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ContentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ContentType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/DayOfWeek.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/DayOfWeek.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus$Delivered.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus$Delivered.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus$Delivering.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus$Delivering.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus$NotDelivered.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus$NotDelivered.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/DeliveryStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Direction$Incoming.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Direction$Incoming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Direction$Outgoing.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Direction$Outgoing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Direction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/DoubleForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/DoubleForLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ExceptionHandleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ExceptionHandleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ExplicitCastingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ExplicitCastingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ExpressionVsStatmentKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ExpressionVsStatmentKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Filelocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Filelocal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Foo.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Foo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ForLoopInfiniteKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ForLoopInfiniteKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ForceAllegiance$Jedi.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ForceAllegiance$Jedi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ForceAllegiance$Sith.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ForceAllegiance$Sith.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ForceAllegiance.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ForceAllegiance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/FullPackageNameKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/FullPackageNameKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/GotoKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/GotoKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/HighOrderFunctionKt$main$maxValue$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/HighOrderFunctionKt$main$maxValue$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/HighOrderFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/HighOrderFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/InlineStringKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/InlineStringKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/LoopsAndRangesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/LoopsAndRangesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/LoopsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/LoopsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/MainKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/MaxKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/MaxKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/MultilineLiteralKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/MultilineLiteralKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/NullConditionalOperatorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/NullConditionalOperatorKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/OperatorOverloadingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/OperatorOverloadingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/PersonInThis.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/PersonInThis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/PersonPrivate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/PersonPrivate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/RandomNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/RandomNumberKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt$FunctionCallingInnerFunction$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt$FunctionCallingInnerFunction$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ReturnKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/SealClassAsEnumKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/SealClassAsEnumKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/SemicolonsAreOptionalTheySaidKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/SemicolonsAreOptionalTheySaidKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/SemicolonsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/SemicolonsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/SmartCastingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/SmartCastingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/TemporyFunctionKt$main$increaseBy$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/TemporyFunctionKt$main$increaseBy$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/TemporyFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/TemporyFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/TernaryKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/TernaryKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/ThisKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/ThisKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/TypesInKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/TypesInKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/UnitVsNothingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/UnitVsNothingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/VariablesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/VariablesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/Vector.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/Vector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/WhenKt$main$greater$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/WhenKt$main$greater$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/WhenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/WhenKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/WhileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/WhileKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/utils/ArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/utils/ArrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/basics/utils/SampleUtilsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/basics/utils/SampleUtilsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/A$B.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/A$B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/AParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/AParent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/AlwaysOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/AlwaysOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/BasicGraphic$Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/BasicGraphic$Line.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/BasicGraphic.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/BasicGraphic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/BasicGraphicWithInner$InnerLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/BasicGraphicWithInner$InnerLine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/BasicGraphicWithInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/BasicGraphicWithInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/ClassDelegationKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/ClassDelegationKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/ClassesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/ClassesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Clickable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Clickable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Color$Blue.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Color$Blue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Color$Green.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Color$Green.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Color$Red.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Color$Red.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Colors.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/CompanionObjectAsFactoryPatternKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/CompanionObjectAsFactoryPatternKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/CustomGetterKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/CustomGetterKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/CustomerWithInitBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/CustomerWithInitBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/CustomerWithInitBlockSecondyConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/CustomerWithInitBlockSecondyConstructor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/CustomerWithProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/CustomerWithProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/CustomerWithoutProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/CustomerWithoutProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/DDerived.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/DDerived.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/DataClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/DataClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Document$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Document$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Document.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/EnumInterfaceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/EnumInterfaceKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/EnumsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/EnumsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Greeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Greeter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/IFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/IFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/IPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/IPrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/IScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/IScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/InheritanceKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/InheritanceKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/InterfaceWithClickAbleKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/InterfaceWithClickAbleKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/MultiFunctionDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/MultiFunctionDevice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/NestedClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/NestedClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/OOPHelloKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/OOPHelloKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Outer$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Outer$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Outer$StaticNested.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Outer$StaticNested.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/OuterClassName$NestedClassName.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/OuterClassName$NestedClassName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/OuterClassName.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/OuterClassName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/PersonInInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/PersonInInheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Personlocal.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Personlocal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Planet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Point$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Point$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/PointFactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/PointFactor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Points.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Points.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Printable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Printable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/SingletonInFactoryKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/SingletonInFactoryKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/SingletonKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/SingletonKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Touchable$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Touchable$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Touchable.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Touchable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Word$Bye.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Word$Bye.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Word$Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Word$Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/Word.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/Word.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/class/abs.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/class/abs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/collection/ArrayListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/collection/ArrayListKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/collection/ArrayListOfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/collection/ArrayListOfKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/collection/ArraysKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/collection/ArraysKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/collection/RangesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/collection/RangesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functional/GettingFunctionalKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functional/GettingFunctionalKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functional/GettingFunctionalKt$main$sumLamda$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functional/GettingFunctionalKt$main$sumLamda$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functional/GettingFunctionalKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functional/GettingFunctionalKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/Average.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/CascadesKt$main$superman$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/CascadesKt$main$superman$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/CascadesKt$main$superman$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/CascadesKt$main$superman$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/CascadesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/CascadesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/ClassA.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/ClassA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/ExtensionFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/ExtensionFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/ExtensionFunctionOnNullsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/ExtensionFunctionOnNullsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/ExtensionPropertyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/ExtensionPropertyKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/FunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/FuntorKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/FuntorKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/InfixFunctionKt$infix_function$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/InfixFunctionKt$infix_function$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/InfixFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/InfixFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/LamdaFunctionsKt$main$product$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/LamdaFunctionsKt$main$product$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/LamdaFunctionsKt$main$sameProduct$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/LamdaFunctionsKt$main$sameProduct$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/LamdaFunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/LamdaFunctionsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/MemberFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/MemberFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$fizzbuzz$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$fizzbuzz$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$fizzbuzz$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$fizzbuzz$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$printArea$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$printArea$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$solve_quadratic_equation$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt$solve_quadratic_equation$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/NestedInnerFunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/RequireKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/RequireKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/Robin.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/Robin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/SideKick.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/SideKick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/Spiderman.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/Spiderman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/Square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/Superman.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/Superman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/UsingKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/UsingKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/functions/UsingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/functions/UsingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/AbstractClassKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/AbstractClassKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/ClassPropertyKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/ClassPropertyKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/CustomerRepository$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/CustomerRepository$DefaultImpls.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/CustomerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/CustomerRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/DelegatePropertiesKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/DelegatePropertiesKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/Human.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninClassProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninClassProperty.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninPropertyDelegate$$special$$inlined$observable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninPropertyDelegate$$special$$inlined$observable$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninPropertyDelegate$lazyValue$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninPropertyDelegate$lazyValue$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninPropertyDelegate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/PersoninPropertyDelegate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/PropertyDelegate.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/PropertyDelegate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/inheritance/StoredEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/inheritance/StoredEntity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/HashMapKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/HashMapKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/HashMapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/HashMapKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/ItDoesSomethingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/ItDoesSomethingKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/MapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/MapKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/MapToListKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/MapToListKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/TreemapKt$main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/TreemapKt$main$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/main/map/TreemapKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/main/map/TreemapKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -291,35 +95,38 @@
     <session id="1953915155">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="2" />
-          <entry key="kt" value="3" />
+          <entry key="kt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="3" />
+          <entry key="Kotlin" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="15" />
-          <entry key="kt" value="47" />
+          <entry key="kt" value="980" />
+          <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="15" />
-          <entry key="Kotlin" value="47" />
+          <entry key="Kotlin" value="980" />
+          <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -345,10 +152,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            <state relative-caret-position="494">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -358,8 +165,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -577,7 +384,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$USER_HOME$/.gradle/gradle.properties" value="3834154831" />
-        <entry key="$PROJECT_DIR$" value="8954813661000" />
+        <entry key="$PROJECT_DIR$" value="9160481657000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="747676799" />
         <entry key="$PROJECT_DIR$/gradle.properties" value="1768510980" />
@@ -777,9 +584,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/kotlin/basics/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/basics/Imports.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/basics/JavaKotlinSameProject.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Loops.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/collection/Arrays.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/This.kt" />
@@ -828,6 +632,9 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/BitwiseOperation.kt" />
         <option value="$PROJECT_DIR$/src/main/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/basics/Closure.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt" />
       </list>
     </option>
   </component>
@@ -848,9 +655,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="873" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1239,7 +1045,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1268,13 +1073,6 @@
               <item name="kotlinLangSandBox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlinSandBox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlinLangSandBox" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1283,21 +1081,23 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="basics" type="462c0819:PsiDirectoryNode" />
+              <item name="algosearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
     <property name="SearchEverywhereHistoryKey" value="Infix&#9;FILE&#9;file:///Users/victor/Documents/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Infix.kt&#10;Closure&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.closure.Closure&#10;exce&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/ExceptionHandle.kt&#10;Vec tor()&#9;null&#9;null&#10;operator&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/nullConditionalOperator.kt&#10;enum&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Enums.kt&#10;enu&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Enums.kt&#10;enumc&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/EnumWithCompanionObject.kt&#10;inter&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/InterfaceWithClickAble.kt&#10;inhe&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Inheritance.kt&#10;Enum&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Enums.kt&#10;sing&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/SingletonInFactory.kt&#10;retur&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Return.kt&#10;when&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/When.kt&#10;ex&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/ExplicitCasting.kt&#10;smart&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/SmartCasting.kt&#10;main&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Main.kt&#10;dataclass&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/DataClass.kt&#10;dele&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/DelegateProperties.kt&#10;infix&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/InfixFunction.kt&#10;closure&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Closure.kt&#10;hasma&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;proper&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/ClassProperty.kt&#10;Direc&#9;null&#9;null&#10;Dir&#9;null&#9;null&#10;hasm&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;Gra&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/build.gradle&#10;treema&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;map&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/SortedMap.kt&#10;high&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/HighOrderFunction.kt&#10;hight&#9;PSI&#9;JAVA://javax.swing.plaf.metal.MetalHighContrastTheme&#10;func&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functional/GettingFunctional.kt&#10;funct&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;extens&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;tre&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;lam&#9;FILE&#9;file://D:/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/LamdaFunctions.kt&#10;inner&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/NestedInnerFunction.kt&#10;Variab&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/basics/Variables.kt&#10;Nothing&#9;null&#9;null&#10;#plugins Jr&#9;null&#9;null&#10;#plugin&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533461676010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533465416937" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -1310,7 +1110,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -1337,7 +1137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.basics.ConcatStringKt">
+  <component name="RunManager" selected="Kotlin.algosearch.BinarySearchKt">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -1471,14 +1271,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="algosearch.BinarySearchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinSandBox_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ProgramKt" />
+      <option name="MAIN_CLASS_NAME" value="algosearch.BinarySearchKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1510,6 +1310,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="basics.DoubleForLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinSandBox_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="basics.DoubleForLoopKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="functions.CascadesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinSandBox_main" />
       <option name="VM_PARAMETERS" />
@@ -1518,19 +1331,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="functions.CascadesKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="inheritance.AbstractClassKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinSandBox_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="inheritance.AbstractClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1597,19 +1397,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ProgramKt" />
-      <item itemvalue="Kotlin.inheritance.AbstractClassKt" />
       <item itemvalue="Kotlin.functions.CascadesKt" />
       <item itemvalue="Kotlin.basics.BitwiseOperationKt" />
       <item itemvalue="Kotlin.basics.ConcatStringKt" />
+      <item itemvalue="Kotlin.basics.DoubleForLoopKt" />
+      <item itemvalue="Kotlin.algosearch.BinarySearchKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.algosearch.BinarySearchKt" />
+        <item itemvalue="Kotlin.basics.DoubleForLoopKt" />
         <item itemvalue="Kotlin.basics.ConcatStringKt" />
         <item itemvalue="Kotlin.basics.BitwiseOperationKt" />
         <item itemvalue="Kotlin.functions.CascadesKt" />
-        <item itemvalue="Kotlin.inheritance.AbstractClassKt" />
-        <item itemvalue="Kotlin.ProgramKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1744,8 +1544,17 @@
       <workItem from="1501775028561" duration="257000" />
       <workItem from="1533445276341" duration="506000" />
       <workItem from="1533445993350" duration="1175000" />
-      <workItem from="1533461575509" duration="72000" />
+      <workItem from="1533461575509" duration="305000" />
+      <workItem from="1533462063299" duration="2341000" />
     </task>
+    <task id="LOCAL-00001" summary="Working on some final changes">
+      <created>1533461708911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533461708912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1757,7 +1566,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226721000" />
+    <option name="totallyTimeSpent" value="229295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1769,10 +1578,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30543634" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30972818" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Designer" order="3" />
@@ -1783,7 +1592,7 @@
       <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32988435" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49427754" visible="true" weight="0.32004982" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4914163" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1792,11 +1601,11 @@
       <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49499285" weight="0.33034572" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49213162" weight="0.33012047" />
       <window_info anchor="bottom" id="CheckStyle" order="12" weight="0.32866707" />
       <window_info anchor="bottom" id="REST Client" order="13" weight="0.33194733" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32988435" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50572246" side_tool="true" visible="true" weight="0.32004982" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50858366" side_tool="true" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Docker" order="16" sideWeight="0.49570817" weight="0.3290653" />
       <window_info anchor="bottom" id="Build" order="17" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
@@ -1824,6 +1633,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Working on some final changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on some final changes" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1841,23 +1656,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/ForLoopInfinite.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/FullPackageName.kt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Goto.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/class/CustomGetter.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
@@ -2085,16 +1883,16 @@
         <state relative-caret-position="311">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
           <folding>
-            <marker date="1492255191000" expanded="true" signature="19:64" ph="/** Created by victor888 on 2/16/2017. ...*/" />
-            <marker date="1492255191000" expanded="true" signature="95:350" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="238:348" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="320:343" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="381:472" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="408:469" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="530:561" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="578:762" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="787:875" ph="{...}" />
-            <marker date="1492255191000" expanded="true" signature="896:923" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="19:64" ph="/** Created by victor888 on 2/16/2017. ...*/" />
+            <marker date="1533461735643" expanded="true" signature="95:350" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="238:348" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="320:343" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="381:472" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="408:469" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="530:561" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="578:762" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="787:875" ph="{...}" />
+            <marker date="1533461735643" expanded="true" signature="896:923" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -2106,13 +1904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/BitwiseOperation.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -2128,15 +1919,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/Closure.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="133">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/DoubleForLoop.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/basics/BitwiseOperation.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
         </state>
       </provider>
     </entry>
