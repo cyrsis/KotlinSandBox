@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8106016b-e159-4ad3-a724-e6b14f1d7c37" name="Default" comment="Working on some final changes">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -106,26 +105,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="2" />
-          <entry key="kt" value="10" />
+          <entry key="kt" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="10" />
+          <entry key="Kotlin" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="java" value="15" />
-          <entry key="kt" value="980" />
+          <entry key="kt" value="1215" />
           <entry key="txt" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="15" />
-          <entry key="Kotlin" value="980" />
+          <entry key="Kotlin" value="1215" />
           <entry key="PLAIN_TEXT" value="40" />
         </counts>
       </usages-collector>
@@ -152,10 +151,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+            <state relative-caret-position="265">
+              <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -633,8 +632,8 @@
         <option value="$PROJECT_DIR$/src/main/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/ConcatString.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/basics/Closure.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt" />
       </list>
     </option>
   </component>
@@ -1097,7 +1096,7 @@
     <property name="SearchEverywhereHistoryKey" value="Infix&#9;FILE&#9;file:///Users/victor/Documents/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Infix.kt&#10;Closure&#9;PSI&#9;JAVA://com.sun.corba.se.spi.orbutil.closure.Closure&#10;exce&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/ExceptionHandle.kt&#10;Vec tor()&#9;null&#9;null&#10;operator&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/nullConditionalOperator.kt&#10;enum&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Enums.kt&#10;enu&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Enums.kt&#10;enumc&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/EnumWithCompanionObject.kt&#10;inter&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/InterfaceWithClickAble.kt&#10;inhe&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Inheritance.kt&#10;Enum&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/Enums.kt&#10;sing&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/SingletonInFactory.kt&#10;retur&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Return.kt&#10;when&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/When.kt&#10;ex&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/ExplicitCasting.kt&#10;smart&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/SmartCasting.kt&#10;main&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Main.kt&#10;dataclass&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/class/DataClass.kt&#10;dele&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/DelegateProperties.kt&#10;infix&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/InfixFunction.kt&#10;closure&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/Closure.kt&#10;hasma&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;proper&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/inheritance/ClassProperty.kt&#10;Direc&#9;null&#9;null&#10;Dir&#9;null&#9;null&#10;hasm&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/HashMap.kt&#10;Gra&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/build.gradle&#10;treema&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;map&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/map/SortedMap.kt&#10;high&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/basics/HighOrderFunction.kt&#10;hight&#9;PSI&#9;JAVA://javax.swing.plaf.metal.MetalHighContrastTheme&#10;func&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functional/GettingFunctional.kt&#10;funct&#9;FILE&#9;file://C:/Dev/KotlinSandBox/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;extens&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/ExtensionFunction.kt&#10;tre&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/map/treemap.kt&#10;lam&#9;FILE&#9;file://D:/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/LamdaFunctions.kt&#10;inner&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/functions/NestedInnerFunction.kt&#10;Variab&#9;FILE&#9;file://C:/Dev/LearnAndroid/kotlinLangSandBox/src/main/kotlin/basics/Variables.kt&#10;Nothing&#9;null&#9;null&#10;#plugins Jr&#9;null&#9;null&#10;#plugin&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533465416937" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533474986132" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
@@ -1284,6 +1283,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="algosearch.DequeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="kotlinSandBox_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="algosearch.DequeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="basics.BitwiseOperationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="kotlinSandBox_main" />
       <option name="VM_PARAMETERS" />
@@ -1318,19 +1330,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="basics.DoubleForLoopKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="functions.CascadesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="kotlinSandBox_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="functions.CascadesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1397,19 +1396,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.functions.CascadesKt" />
       <item itemvalue="Kotlin.basics.BitwiseOperationKt" />
       <item itemvalue="Kotlin.basics.ConcatStringKt" />
       <item itemvalue="Kotlin.basics.DoubleForLoopKt" />
       <item itemvalue="Kotlin.algosearch.BinarySearchKt" />
+      <item itemvalue="Kotlin.algosearch.DequeKt" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Kotlin.algosearch.BinarySearchKt" />
+        <item itemvalue="Kotlin.algosearch.DequeKt" />
         <item itemvalue="Kotlin.basics.DoubleForLoopKt" />
         <item itemvalue="Kotlin.basics.ConcatStringKt" />
         <item itemvalue="Kotlin.basics.BitwiseOperationKt" />
-        <item itemvalue="Kotlin.functions.CascadesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -1545,7 +1544,7 @@
       <workItem from="1533445276341" duration="506000" />
       <workItem from="1533445993350" duration="1175000" />
       <workItem from="1533461575509" duration="305000" />
-      <workItem from="1533462063299" duration="2341000" />
+      <workItem from="1533462063299" duration="3743000" />
     </task>
     <task id="LOCAL-00001" summary="Working on some final changes">
       <created>1533461708911</created>
@@ -1554,7 +1553,14 @@
       <option name="project" value="LOCAL" />
       <updated>1533461708912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Working on some final changes">
+      <created>1533465423978</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533465423979</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1566,7 +1572,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229295000" />
+    <option name="totallyTimeSpent" value="230697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1581,7 +1587,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30972818" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30972818" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Designer" order="3" />
@@ -1592,7 +1598,7 @@
       <window_info id="JRebel" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32988435" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4914163" visible="true" weight="0.3192771" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48783976" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1601,11 +1607,11 @@
       <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49213162" weight="0.33012047" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.48569384" weight="0.33012047" />
       <window_info anchor="bottom" id="CheckStyle" order="12" weight="0.32866707" />
       <window_info anchor="bottom" id="REST Client" order="13" weight="0.33194733" />
       <window_info anchor="bottom" id="Terminal" order="14" weight="0.32988435" />
-      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50858366" side_tool="true" visible="true" weight="0.3192771" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.51216024" side_tool="true" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Docker" order="16" sideWeight="0.49570817" weight="0.3290653" />
       <window_info anchor="bottom" id="Build" order="17" />
       <window_info anchor="bottom" id="Database Changes" order="18" show_stripe_button="false" />
@@ -1939,17 +1945,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="608">
+          <caret line="32" column="2" lean-forward="true" selection-start-line="32" selection-start-column="2" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/deque.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/algosearch/binarySearch.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        <state relative-caret-position="265">
+          <caret line="14" column="65" selection-start-line="14" selection-start-column="65" selection-end-line="14" selection-end-column="65" />
         </state>
       </provider>
     </entry>

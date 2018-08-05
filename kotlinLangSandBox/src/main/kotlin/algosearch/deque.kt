@@ -5,6 +5,12 @@ import java.util.*
 fun main(args: Array<String>) {
     val qq: Deque<String> = LinkedList()
 
+    qq.add("Victor")
+    qq.add("Ann")
+    qq.add("May")
+
+    println(qq.last)
+
 }
 
 //Binary Searching

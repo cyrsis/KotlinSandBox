@@ -11,26 +11,36 @@ fun main(args: Array<String>) {
     val name = "Clark"
     val num = 2
 
-    println("\n$name is in the position ${victorSearch(orderlist, name)} in the ordered List.")
-    println("\n$name is in the position ${victorSearch(order, 5)} in the ordered List.")
+    println("\n$name is in the position ${LinearSearch(orderlist, name)} in the ordered List.")
+    println("\n$num is in the position ${victorSearch(order, 5)} in the ordered List.")
 
+
+}
+
+fun <T : Comparable<T>> LinearSearch(orderlist: List<T>, key: T): Int? {
+
+    for ((index, value) in orderlist.withIndex()) {
+        if (value == key)
+            return index
+    }
+    return null
 
 }
 
 fun <T : Comparable<T>> victorSearch(list: List<T>, key: T): Int? {
 
-    var rangeStart =0
+    var rangeStart = 0
     var rangeEnd = list.count();
-    while (rangeStart<rangeEnd) {
+    while (rangeStart < rangeEnd) {
 
-        val midindex = rangeStart + (rangeEnd-rangeStart)/2
+        val midindex = rangeStart + (rangeEnd - rangeStart) / 2
 
         if (list[midindex] == key) {
             return midindex
-        } else if (list[midindex]<key ) {
-            rangeStart= midindex+1
+        } else if (list[midindex] < key) {
+            rangeStart = midindex + 1
         } else {
-           rangeEnd = midindex
+            rangeEnd = midindex
         }
     }
 
