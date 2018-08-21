@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.9">
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\Program.kt">
+<error line="1" severity="error" message="Missing a header - not enough lines in file." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\Variable.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\BitwiseOperation.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Boolean.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Closure.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Conditionals.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="83" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\DoubleForLoop.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\ExceptionHandle.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="26" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\ExplicitCasting.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\ExpressionVsStatment.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\ForLoopInfinite.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\FullPackageName.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Goto.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\HighOrderFunction.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Imports.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\InlineString.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\JavaKotlinSameProject.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Loops.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\LoopsAndRanges.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Main.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Max.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\MultilineLiteral.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\OperatorOverloading.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\PersonPrivate.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\RandomNumber.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="14" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Return.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Scope.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\SealClassAsEnum.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Semicolons.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\SemicolonsAreOptionalTheySaid.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="9" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\SmartCasting.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="20" column="9" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="28" severity="error" message="Space needed before opening parenthesis." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\TemporyFunction.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Ternary.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\This.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\TypesInKotlin.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\UnitVsNothing.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\Variables.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\When.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="32" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="55" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="63" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="71" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\nullConditionalOperator.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\basics\utils\SampleUtils.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\AbstractClass.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="17" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\AccessLevels.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\ClassDelegation.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\Classes.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\CompanionObjectAsFactoryPattern.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="11" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\CustomGetter.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\DataClass.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\EnumInterface.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\EnumWithCompanionObject.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\Enums.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="19" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="50" severity="error" message="Space needed around : character." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="54" severity="error" message="Space needed around : character." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\Inheritance.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\Interface.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\InterfaceWithClickAble.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\NestedClass.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="21" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="59" column="6" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\OOPHello.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="20" column="25" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="28" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="29" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\Singleton.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\SingletonInFactory.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\class\absImpl.kt">
+<error line="1" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="1" severity="error" message="Missing a header - not enough lines in file." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\collection\ArrayList.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\collection\ArrayListOf.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\collection\Arrays.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\collection\Ranges.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functional\GettingFunctional.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\AccumulateNameIntoList.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\Cascades.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\ExtensionFunction.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\ExtensionProperty.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\InfixFunction.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\LamdaFunctions.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\NestedInnerFunction.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\PureFunction.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\Using.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\functions.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\functions\funtor.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\inheritance\AbstractClass.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\inheritance\ClassProperty.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\inheritance\CustomerRepository.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\inheritance\DelegateProperties.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="18" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="31" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\inheritance\GenericRepository.kt">
+<error line="1" severity="error" message="Missing a header - not enough lines in file." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\inheritance\Inheritance.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+<error line="7" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="16" severity="error" message="Space needed between condition and block opening" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\map\HashMap.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\map\MapToList.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\map\SortedMap.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\map\itDoesSomething.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\map\map.kt">
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+<file name="C:\Dev\KotlinSandBox\kotlinLangSandBox\src\main\kotlin\map\treemap.kt">
+<error line="0" severity="error" message="File does not end with a newline." source="com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck"/>
+<error line="1" severity="error" message="Line does not match expected header line of &apos;/**&apos;." source="com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck"/>
+</file>
+</checkstyle>
