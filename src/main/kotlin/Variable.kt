@@ -19,7 +19,7 @@ fun main(args: Array<String>) {
     val b:Long =25
     val c:Float =2.5f
     val d:Double =60e5
-
+    val some: Int = 25
     val anotherInt:Int =10101
 
     println("$a, $b , $c , $d") // Basic Syntax
