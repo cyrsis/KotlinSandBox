@@ -18,7 +18,7 @@ fun main(args: Array<String>) = runBlocking {
     job.join()
 }
 
-suspend fun doWork() {
+suspend fun doWork2() {
     println("isActive? ${coroutineContext[Job]!!.isActive}")
 }
 
